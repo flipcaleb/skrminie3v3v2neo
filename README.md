@@ -1,2 +1,3 @@
-# skrminie3v3v2neo
-config. for skr mini e3 v3.0 on an Ender 3 v2 Neo. this one is for use with original display. have to rewire display yourself.
+# skrminie3v3v2neo marlin bugfix 2.1.x
+config. for skr mini e3 v3.0 on an Ender 3 v2 Neo. this one is for use with original display. have to rewire display yourself. Currently using and works well.From my understanding this is a complete build and you shouldn't have to change anything if your hardware matches up once on vscode.
+I tried to make this as up to date as I could. its the most recent bugfix version on the front page of marlin. should also work for the v2, regular ender, and pro I believe. youll have to change the screen for the ender and pro though.I hope it works well and your printing happpily! If any professionals or just people who are really good at this stuff come across this and decide to glance over it I'd love feedback. I'm just doing this for fun but I know there's alot I can learn and improve on.
